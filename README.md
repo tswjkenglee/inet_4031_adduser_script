@@ -14,7 +14,6 @@ It can:
 
 1. Open a terminal on your Linux system.
 2. Clone this repository onto your machine:
-   - git clone https://github.com/<your-username>/inet_4031_adduser_script.git
 3. Move into the folder after cloning:
    - cd inet_4031_adduser_script
 4. Prepare a file named create-users.input in the same folder.
